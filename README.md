@@ -1,2 +1,2 @@
 # Cowriepass
-Extract Credentials from Cowrie logs
+Basic, single line script to extract credentials from Cowrie logs
